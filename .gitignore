@@ -1,0 +1,4 @@
+# avoiding sync of your intelli idea settings
+# .idea folder shall not sync with github
+.idea
+.idea/
