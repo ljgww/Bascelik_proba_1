@@ -1,10 +1,10 @@
 # git clone - vezba
 
-Zadatak:
+**Zadatak:**
 
-povicu neciji repo sa interneta
+povuci neciji repo sa interneta (preseliti internet code u lokalni repo na tvom kompu)
 
-Koraci
+**Koraci**
 
 ovo sto vidis je repo na github-u
 mozes da povuces kod kod tebe na komp tako sto:
