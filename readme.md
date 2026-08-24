@@ -1,20 +1,8 @@
-ovo je repo na github-u
-mozes da povuces kod tako sto
+ovaj branch je napravljen da ja probam nesto
+pa ce to nesto kad bude gotovo da se 'vrati' na main granu
 
-1. otvoris neki novi prazan folder na tvom disku
-2. otvoris gitBash u tom folderu 
-3. ukucas komandu:
+taj deo je 'merge' i to jos uvek nismo radili.
 
-    git clone https://github.com/ljgww/Bascelik_proba_1.git
-    
-Git ce da ti povuce ceo repo code sa git-huba u pod-direktorijum od tvog foldera iz tacke 1. a po imenu repo imena
+obrati paznju da je readme.md u razlicitim granama nazavan isto ali ima razlicit sadrzaj
 
-4. znaci treba da udjes u potfolder:
-
-    cd Bascelik_proba_1
-
-i to ti je radni folder
-
-treba da vidis fajlove koje je git povukao sa git-hub-a.
-
-
+Zasto?
